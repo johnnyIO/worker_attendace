@@ -1,6 +1,6 @@
 # InstagramClone
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a web application that is developed with node js for handling BE functionalities and Vue js for FE processing, All the API Were Written in node Js .
 
 ## Recommended IDE Setup
 
